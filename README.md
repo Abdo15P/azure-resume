@@ -1,5 +1,5 @@
-# azure-resume
-My resume on Azure, following ACG video.
+# Azure Resume Challenge
+This project utilizes multiple technologies in order to build a peronsal resume website and deploy it to Azure. I decided to take on this challenge to improve my Azure skills and get more hands-on experience. The project was done following (https://www.youtube.com/watch?v=ieYrBWmkfno "ACG's video")  My resume on Azure, following ACG video.
 
 ## Steps
 
