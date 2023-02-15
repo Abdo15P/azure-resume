@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureResumeConnectionString":"AccountEndpoint=https://abdelrahman-azureresume.documents.azure.com:443/;AccountKey=8OFAx0i38MeJYUOGrWYqiknjuN7HNj52QfewFJqtKjLJu2icrJNotDKb6RLd5mzVslZEGMTcEBf4ACDbvO7PCA=="
+
+  },
+  "Host":
+  {
+    "CORS":"*"
+  }
+}
