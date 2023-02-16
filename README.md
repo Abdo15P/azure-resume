@@ -17,7 +17,7 @@ This project utilizes multiple technologies in order to build a peronsal resume 
 
 6- Create an HTTP trigger function locally using Azure Functions extension on Visual Studio that will be triggered using a Javascript API. The function has an input and output binding to retrieve data from the CosmosDB instance and update the counter. The function was then deployed to Azure.
 
-7- Create javascript code to call the function API whenever the page gets loaded and display the counter. This code was copied from the template on [ACG's resume challenge repo](https://github.com/madebygps/cgc-azure-resume).
+7- Create javascript code to call the function API whenever the page gets loaded and display the counter. This code was copied from the template on [ACG's resume challenge repo](https://github.com/madebygps/cgc-azure-resume). A few unit tests for the backend were also copied from this repo.
 
 8- Building a CI/CD pipeline using Github Actions.[This guide](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-static-site-github-actions) was used to implement GitHub Actions workflow. This was done so that when a new website code is pushed, the Azure Storage blob automatically gets updated.
 
